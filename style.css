@@ -1,0 +1,6 @@
+hr {
+  border: black; /* Remove default border */
+  border-top: 5px solid black; /* Add a top border for the line */
+  width: 100%; /* Adjust width as needed, e.g., 80% or 100% */
+  margin: 40px 0; /* Adjust margin for spacing above and below */
+}
